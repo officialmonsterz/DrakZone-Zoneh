@@ -235,9 +235,8 @@ pip install -r requirements.txt
 
 ## ❤️ Credits
 
-**Built with passion by [officialmonsterz](https://github.com/officialmonsterz)**  
+**Built with passion by [officialmonsterz](https://t.me/officialmonsterz)**  
 **Contact:** shapads@tutamail.com
-**Telegram:** t.me/officialmonsterz
 
 ---
 
@@ -250,5 +249,3 @@ Made for the real ones. 🔥
 *— Officialmonsterz*
 ```
 It is 100% based on your live GitHub repo (drakzone.py, drakgrab_config.yaml, etc.) and matches the style of your existing README.md.  
-
-Just commit and push — it will look perfect on GitHub! Let me know if you want a `CONTRIBUTING.md` or `LICENSE` next.
